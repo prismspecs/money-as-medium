@@ -63,6 +63,7 @@ Introductions, Relating Art and Money
   + Course Introduction
   + [Join Slack](https://join.slack.com/t/graysonearle/shared_invite/enQtNzIzODQ4MjczNjUwLTVkNjMxN2M0NTc4NTI2MWM4NmVmNDhiNTEwMDc5YWUxYzgyNDljMTIyY2FhZGRkYjlhMWM4MTVlNTExZmYyYWM)
   + r/place
+    + [slides](https://docs.google.com/presentation/d/178Hx36nCLtRCaEwPyJFkCA54jdNh_BXjHPj9Asxdi7s/edit?usp=sharing)
 
 + Wednesday
   + Discuss Text(s)
