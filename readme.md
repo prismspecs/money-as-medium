@@ -2,18 +2,15 @@
 + [Arena](https://www.are.na/grayson-earle/cryptocurrency)
 + [Slack](https://join.slack.com/t/graysonearle/shared_invite/enQtNzIzODQ4MjczNjUwLTVkNjMxN2M0NTc4NTI2MWM4NmVmNDhiNTEwMDc5YWUxYzgyNDljMTIyY2FhZGRkYjlhMWM4MTVlNTExZmYyYWM)
 + [TNS class site](https://courses.newschool.edu/courses/LCST2481/)
-+ Days: Monday, Wednesday
-+ Times: 2:00pm - 3:40pm
-+ Building: Johnson/Kaplan 66 West 12th
-+ Room: 406
-+ Date Range: 8/26/2019 - 12/16/2019
++ Class info
+  + Times: Monday & Wednesday 2:00pm - 3:40pm
+  + Building: Johnson/Kaplan 66 West 12th
+  + Room: 406
+  + Date Range: 8/26/2019 - 12/16/2019
 + Instructor
   + Grayson Earle
   + earleg@newschool.edu
   + Office Hours: Monday 3:45pm - 5pm
-
-## To add...
-You know, one other interesting direction on a potential project: some utopia/dystopia imagining using crypto. One of the things I think is most compelling about crypto is its aggressive imagining of possible futures—all the pitches are about imagining a world without banks, without xyz middlemen, etc or the critiques are often why these big crypto overhauls would be a nightmare. It could be interesting to have students imagine complete overhauls of certain systems/complete societies with crypto and what potential consequences could be.
 
 ## Description
 
