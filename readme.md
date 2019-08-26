@@ -10,7 +10,7 @@
 + Instructor
   + Grayson Earle
   + earleg@newschool.edu
-  + Office Hours: Monday 3:45pm - 5pm
+  + Office Hours: after class on Monday by appointment
 
 ## Description
 
