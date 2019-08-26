@@ -54,13 +54,6 @@ This class examines the history and theory of cryptocurrency, artistic intervent
   + These projects don't need to come into fruition, but they need to feel real in all aspects: A presentation, branding, interaction with the real crypto community, diagrams, etc. are all ways of achieving this.
   + Feel free to create this in the mode of existing projects in the blockchain ecosystem, or to re-imagine the technology, or simply be as absurd or experimental as you would like.
 
-
-Mini Assignments
-+ Deadcoins
-  + Find a coin that is no longer being used and produce some research about it. What was it intended to do? In what country did it originate? What was its highest and lowest traded value?
-+ FUD
-  + Class splits into two teams, each behind a different "shitcoin." Try to pump your coin and FUD the other. Whichever team's coin goes up in value more wins.
-
 ## Schedule
 ### week 1 (8/26 & 8/28)
 
