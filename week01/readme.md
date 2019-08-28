@@ -9,6 +9,7 @@ Introductions, Relating Art and Money
     + [slides](https://docs.google.com/presentation/d/178Hx36nCLtRCaEwPyJFkCA54jdNh_BXjHPj9Asxdi7s/edit?usp=sharing)
 
 + Wednesday
+  + [Some background on freeport art storage](https://youtu.be/CwuMY-_V4dc)
   + Discuss Text(s)
     + [If You Don’t Have Bread, Eat Art!: Contemporary Art and Derivative Fascisms](https://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf#171022%20blockchain%20book%20FINAL%20reprint%202_forpdf.indd%3A.53388%3A26) by Hito Steyerl from Artists Re:Thinking the Blockchain
     + [Rai Stones via Wikipedia](https://en.wikipedia.org/wiki/Rai_stones)
