@@ -116,8 +116,8 @@ Intro to Criticism of Bitcoin, Darkweb
   + Intro to Parasite Project
 
 + Wednesday
-  + Discuss Text(s)
-    + [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
+  + Screen Deep Web documentary
+    + In advance of this, read [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
 
 ### week 6 (9/30 & 10/2) no class 9/30
 
