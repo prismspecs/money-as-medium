@@ -77,9 +77,12 @@ Introductions, Relating Art and Money
 Intro to Bitcoin
 
 + Wednesday
+  + Activity: Classroom Bitcoin
   + Discuss Text(s)
     + [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     + [The Great Chain of Being Sure About Things](https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things) *optional*
+  + Homework
+    + Research a cryptocurrency other than Bitcoin and bring back notes to class for discussion
 
 ### week 3 (9/9 & 9/11)
 
