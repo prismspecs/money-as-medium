@@ -86,12 +86,11 @@ Intro to Bitcoin
 
 ### week 3 (9/9 & 9/11)
 
-Forking
+Bitcoin continued
 
 + Monday
-  + Understanding Hard & Soft Forks
   + Discuss Text(s)
-    + Brief History of Bitcoin
+    + [Brief History of Bitcoin](texts/brief-history-of-bitcoin.pdf) (also on Canvas)
 
 + Wednesday
   + Discuss Work(s)
