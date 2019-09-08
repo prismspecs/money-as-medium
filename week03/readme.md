@@ -3,9 +3,12 @@
 Bitcoin continued
 
 + Monday
+  + Watch [Bitcoin: How Cryptocurrencies Work](https://www.youtube.com/watch?v=kubGCSj5y3k)
+  + [Slides](https://docs.google.com/presentation/d/1oxmRXglKcLkdCmzb7p709VM8PGWUqSWMXDWZZhZAimw/edit?usp=sharing)
   + Discuss Text(s)
-    + [Brief History of Bitcoin](texts/brief-history-of-bitcoin.pdf)
-
+    + [Brief History of Bitcoin](../texts/brief-history-of-bitcoin.pdf)
+  + Discuss "altcoins"
+  
 + Wednesday
   + Discuss Work(s)
     + [Blockchain Religion](https://futurism.com/blockchain-religion-matt-liston/)
