@@ -9,6 +9,7 @@ Intro to Bitcoin
     + [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     + [The Great Chain of Being Sure About Things](https://www.economist.com/briefing/2015/10/31/the-great-chain-of-being-sure-about-things) *optional*
   + Homework
+    + Read 'A Brief History of Bitcoin' via Canvas
     + Research one of the following cryptocurrencies and bring back notes to class for discussion. Some good questions for you to answer are
       + What makes this different than Bitcoin?
       + What sorts of application(s) are people interested in?
