@@ -121,6 +121,7 @@ Intro to Criticism of Bitcoin, Darkweb
 + Wednesday
   + Screen Deep Web documentary
     + In advance of this, read [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
+    + And listen to [Radiolab - Darkode](https://www.wnycstudios.org/story/darkode) *optional*
 
 ### week 6 (9/30 & 10/2) no class 9/30
 
