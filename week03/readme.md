@@ -17,3 +17,6 @@ Bitcoin continued
 
 + Recommended supplemental texts for this week
   + [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
+
++ Extra credit opportunities
+  + Attend a [Blockchain Meetup group](https://www.meetup.com/topics/blockchain/) and write 250 words about your experience
