@@ -20,3 +20,6 @@ Bitcoin continued
 
 + Extra credit opportunities
   + Attend a [Blockchain Meetup group](https://www.meetup.com/topics/blockchain/) and write 250 words about your experience
+
++ Read for next week
+  + Graeber, David - Debt: The First 5000 Years chapter 2 "The Myth of Barter on Canvas
