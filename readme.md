@@ -101,10 +101,12 @@ Bitcoin continued
 ### week 4 (9/16 & 9/18)
 
 + Monday
+  + Place Virtual Stock Market bets
   + Discuss Text(s)
     + David Graeber - Debt: 5000 Years - The Myth of Barter (ch2)
+
 + Wednesday
-  + Virtual Virtual Stockmarket, bets placed
+  + TBD
 
 ### week 5 (9/23 & 9/25)
 
