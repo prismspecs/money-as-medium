@@ -2,6 +2,7 @@
 ### week 4 (9/16 & 9/18)
 
 + Monday
+  + [Slides](https://docs.google.com/presentation/d/1XvjT9C96Ktk2m3IgLNbeKohcgvr9bnOJoqEEAqtDtr8/edit?usp=sharing)
   + Place Virtual Stock Market bets
   + Discuss Text(s)
     + David Graeber - Debt: 5000 Years - The Myth of Barter (ch2)
