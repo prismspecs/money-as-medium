@@ -19,3 +19,6 @@ Intro to Criticism of Bitcoin, Darkweb
   + Screen Deep Web documentary
     + In advance of this, read [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
     + And listen to [Radiolab - Darkode](https://www.wnycstudios.org/story/darkode) *optional*
+
++ Homework (due Friday at 11:59pm)
+  + Draft a Parasite project idea and upload via Canvas
