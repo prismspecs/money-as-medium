@@ -4,7 +4,8 @@ Intro to Criticism of Bitcoin, Darkweb
 
 + Monday
   + Discuss Text(s)
-    + [Something from Nothing: A Tale of Cryptocurrency](https://www.ssense.com/en-us/editorial/culture/something-from-nothing-a-tale-of-cryptocurrency)
+    + [Maya Binyam - Something from Nothing: A Tale of Cryptocurrency](https://www.ssense.com/en-us/editorial/culture/something-from-nothing-a-tale-of-cryptocurrency)
+    + [Puerto Rico and Cryptocurrency Colonialism](https://youtu.be/bdW1UbsWp28?t=1050)
   + Discuss Work(s)
     + [RAFiA PayBlackTime](https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/)
   + Intro to Parasite Project
