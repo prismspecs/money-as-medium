@@ -8,6 +8,7 @@ Intro to Criticism of Bitcoin, Darkweb
     + [Puerto Rico and Cryptocurrency Colonialism](https://youtu.be/bdW1UbsWp28?t=1050)
   + Discuss Work(s)
     + [RAFiA PayBlackTime](https://news.feltzine.us/2016/11/16/payblacktime-by-rafia-santana-demands-reimbursement-for-black-and-brown-folx-felt-chat/)
+      + [Further reading on Rhizome](https://anthology.rhizome.org/payblacktime)
   + Intro to Parasite Project
     + [Ivan Cash - Occupy George](http://www.ivan.cash/occupy-george)
     + [Banksy - Princess Diana 10 pound note](https://www.youtube.com/watch?v=ke09T2UyXC8)
