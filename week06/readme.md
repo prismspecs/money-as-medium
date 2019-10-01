@@ -7,3 +7,4 @@ Darkweb
     + In preparation for this, please download [Tor](https://www.torproject.org/)
   + Discuss Work(s)
     + [Random Darknet Shopper - Mediengruppe Bitnik](http://rhizome.org/community/45631/)
+  + Discuss Parasite Proposals

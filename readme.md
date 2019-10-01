@@ -123,6 +123,7 @@ Intro to Criticism of Bitcoin, Darkweb
   + Screen Deep Web documentary
     + In advance of this, read [The Rise & Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/)
     + And listen to [Radiolab - Darkode](https://www.wnycstudios.org/story/darkode) *optional*
+  + Parasite Proposals due Monday
 
 ### week 6 (9/30 & 10/2) no class 9/30
 
@@ -133,6 +134,7 @@ Darkweb
     + In preparation for this, please download [Tor](https://www.torproject.org/)
   + Discuss Work(s)
     + [Random Darknet Shopper - Mediengruppe Bitnik](http://rhizome.org/community/45631/)
+  + Discuss Parasite Proposals
 
 ### week 7 (10/7 & 10/9) no class 10/9
 
