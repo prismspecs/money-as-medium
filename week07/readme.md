@@ -5,7 +5,7 @@
 Introduction to Web 3.0, Ethereum
 
 + Monday
-  + Slides
+  + [Slides](https://docs.google.com/presentation/d/1e9tiSgit5czd5hgxPoZRYPgwm42x4-x85QCZv1ZqUts/edit?usp=sharing)
   + Discuss Text(s)
     + [Buterin Interview](https://www.canopycanopycanopy.com/contents/decentralized-autonomous-society?sub=decentralized-autonomous-society-transcript)
       + Full video [available here](https://vimeo.com/119177740)
