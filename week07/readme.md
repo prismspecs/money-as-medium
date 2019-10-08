@@ -14,8 +14,10 @@ Introduction to Web 3.0, Ethereum
     + Bonus, read [the Plantoid chapter from Artist Re:Thinking the Blockchain](https://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf#page=52)
   + Time permitting, check in on Parasite.
 
-+ Due Saturday, give me an update on your Parasite project via Canvas.
-  + How has the project changed?
-  + What details have you worked out?
-  + Include at least one sketch (could be theoretical) on your idea, whether its Photoshop, hand drawn, whatever
-  + What are the next steps?
++ Due Saturday
+  + Update me on your Parasite projects via canvas
+    + How has the project changed?
+    + What details have you worked out?
+    + Include at least one sketch (could be theoretical) on your idea, whether its Photoshop, hand drawn, whatever
+    + What are the next steps?
+  + Post your current crypto portfolio value to [the Slack channel](graysonearle.slack.com)
