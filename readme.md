@@ -1,6 +1,7 @@
 # Cryptocurrency: Money as Medium
 + [Arena](https://www.are.na/grayson-earle/cryptocurrency)
-+ [Slack](https://join.slack.com/t/graysonearle/shared_invite/enQtNzIzODQ4MjczNjUwLTVkNjMxN2M0NTc4NTI2MWM4NmVmNDhiNTEwMDc5YWUxYzgyNDljMTIyY2FhZGRkYjlhMWM4MTVlNTExZmYyYWM)
++ [Slack Invite](https://join.slack.com/t/graysonearle/shared_invite/enQtNzIzODQ4MjczNjUwLTVkNjMxN2M0NTc4NTI2MWM4NmVmNDhiNTEwMDc5YWUxYzgyNDljMTIyY2FhZGRkYjlhMWM4MTVlNTExZmYyYWM)
++ [Slack Channel](https://graysonearle.slack.com)
 + [TNS class site](https://courses.newschool.edu/courses/LCST2481/)
 + Class info
   + Times: Monday & Wednesday 2:00pm - 3:40pm
