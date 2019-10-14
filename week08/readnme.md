@@ -9,6 +9,7 @@ Smart Contracts
     + [What is an ICO?](https://cryptonews.com/guides/what-is-an-ico.htm)
   + Discuss Work(s)
     + [Cryptokitties](https://www.cryptokitties.co/)
+      + [Vox vid](https://www.youtube.com/watch?v=jGfvkjzLrNw)
     + [Cryptopunks](https://www.larvalabs.com/cryptopunks)
 
 + Wednesday
