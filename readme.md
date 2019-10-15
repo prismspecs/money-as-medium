@@ -33,21 +33,27 @@ This class examines the history and theory of cryptocurrency, artistic intervent
 
 + Think critically about the ways they and others interact with computation including understanding its limits from philosophical, logical, mathematical and public policy perspectives
 
+## Grades
+
++ Participation and Attendance: 30%
++ Projects: 40%
++ Text Responses & Discussion: 30%
+
 ## Projects & Assignments (subject to change)
 
-+ Virtual Virtual Stockmarket (20%)
++ Virtual Virtual Stockmarket (10%)
   + Students spend $100 USD (not really) on any three coins.
   + Students must write 250 words on why they chose these particular coins in such a way that demonstrates research.
   + At the end of the semester, whoever has the most fake fake money wins (+2% extra credit).
   + Trading is allowed during the semester, but can only occur between students in this class, and all trades must be documented.
 
-+ Currency Parasite (20%)
++ Currency Parasite (40%)
   + In the vein of the Harriet Tubman stamp, "Where's George?", or Stamp Art, create a layer for an existing currency.
   + This can range from being purely aesthetic to acting as an intervention.
   + You must put your work into circulation and document the creation and dispersal.
   + In creating your currency, ask yourself: "How will people encounter this? How do I want them to feel when they do?"
 
-+ Classcoin (20%)
++ Classcoin (10%)
   + Students must successfully mine X number of Classcoin to receive a passing grade on the project.
 
 + Final Project: Create a Blockchain Company or Work of Art (40%)
