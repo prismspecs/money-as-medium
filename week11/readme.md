@@ -12,6 +12,8 @@ That said, some general guidelines (from which you can diverge):
   + Bring in physical elements of the project if you can. Save a bill, instead of putting everything into circulation.
   + Perhaps solicit some participation from your peers in real time. Can they help answer your central question through participation? Can they engage in some social media that engages with your project?
   + Allow for 2-5 minutes of Q&A. Be ready to address criticism *without being defensive*.
+  + All of this should take about 6-8 minutes. We have to keep things moving, so I might cut you off or hurry you along.
+  + Have your presentations ready to go! Loaded on your computer, or as a Google slideshow. We have to keep time between presentations to a minimum.
 
 + Monday
   + nicole C
