@@ -16,15 +16,15 @@ That said, some general guidelines (from which you can diverge):
   + Have your presentations ready to go! Loaded on your computer, or as a Google slideshow. We have to keep time between presentations to a minimum.
 
 + Monday
-  + nicole C
-  + kyrsten B
   + kelsey M
+  + kyrsten B
   + kyra C
   + rosalie M
   + olivia K
   + lawrence W
   + emma Y
   + haliey R
+  + nicole C
 
 + Wednesday
   + ryder F
