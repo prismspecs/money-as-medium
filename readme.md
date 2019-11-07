@@ -211,7 +211,7 @@ Mining
 + Monday
   + Mining: Software & Hardware
   + Discuss Text(s)
-    + Nadal_Critical Mining (from Artists Re:Thinking the Blockchain)
+    + [Martín Nadal & César Escudero Andaluz - Critical Mining](https://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf#page=74)
   	+ [ViaBTC Rises: How A Mysterious Miner Could Decide Bitcoin's Future](https://www.coindesk.com/viabtc-mystery-miner-bitcoin-scaling-future/)
   	+ [Mining Bitcoin with pencil and paper: 0.67 hashes per day *OPTIONAL*](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 
