@@ -52,6 +52,7 @@ This class examines the history and theory of cryptocurrency, artistic intervent
   + This can range from being purely aesthetic to acting as an intervention.
   + You must put your work into circulation and document the creation and dispersal.
   + In creating your currency, ask yourself: "How will people encounter this? How do I want them to feel when they do?"
+  + Returning to the Hito Steyerl text, you might also reconsider what can be understood as money, which gives you a wide field as the artist for this project.
 
 + Classcoin (10%)
   + Students must successfully mine X number of Classcoin to receive a passing grade on the project.
@@ -216,6 +217,8 @@ Mining
   	+ [Mining Bitcoin with pencil and paper: 0.67 hashes per day *OPTIONAL*](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 
 + Wednesday
+  + Introduce Final Projects
+  + Finish presentationsW
   + Discuss Work(s)
     + [HARVEST by Julian Oliver](https://julianoliver.com/output/harvest)
   	+ [Clickmine](https://isthisa.com/clickmine) by Sarah Friend
@@ -227,7 +230,7 @@ Mining
 Hyperdemocracy
 
 + Monday
-  + Introduce Final Project
+  + Discuss Final Projects
 
 + Wednesday
   + Discuss Text(s)
