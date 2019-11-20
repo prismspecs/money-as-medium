@@ -10,3 +10,4 @@ Hyperdemocracy
 + Wednesday
   + Discuss Text(s)
     + [Meet the Man With a Radical Plan for Blockchain Voting](https://www.wired.com/story/santiago-siri-radical-plan-for-blockchain-voting/)
+  + Workshop projects
